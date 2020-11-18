@@ -1,0 +1,12 @@
+1- Add a subscription email box to bottom right corner - all pages
+
+2- Fix Expand about us to don't overflow on page when all are open
+
+3- Fix images animation to be smoother
+
+4- fix page 4 video when scrolling + window scaling / proper mobile scaling
+
+5- fix 1,2,3,4 buttons so they'll be only circles
+
+6- insert team pictures (found in img/team pictures) into 3rd page 
+and make it pretty and good looking when scaling down to smartphone
